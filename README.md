@@ -1,6 +1,6 @@
 ## ___Assignments completed by Lucas Hewgill___
 
-# This code is for referance only.
+# This code is for refrance only.
 
 # Grades received:
 
